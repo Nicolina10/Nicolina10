@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! I am Nicole Urrego
-## I am learning about programming and I am from Colombia
-## Student of a Bootcamp 
+# Hola! Mi nombre es Nicole Urrego :smiley:
+## Actualmente estoy aprendiendo JavaScript en un Bootcamp dirigido por Guillermo Rodas,ya que quiero aprender Desarrollo web.
+## También hice parte de Misión TIC 2022, en donde aprendí un poco de fundamentos de programación.
 
-|Comando| Descripción        |
+## :large_orange_diamond: *Estos son los comandos más usados*
+
+|**Comando| Descripción**    |
 |-------|------------------- |
 |cd     | Cambiar directorio |
 |pwd    | Muestra donde estoy|
@@ -26,6 +28,13 @@ Here are some ideas to get you started:
 |cp     | Copiar archivos    |
 |rm     | Eliminar archivos  |
 
-## Estos son los alias más usados
-alias cl="clear",
-alias rm="trash"
+## :large_orange_diamond: *Estos son los alias*
+
+|**Alias   | Descripción**|
+|----------|--------------|
+| alias cl | ="clear"     |
+| alias rm | ="trash"     |
+| alias mv | ="move"      |
+
+## :link: *Mi perfil de GitHub* 
+https://github.com/Nicolina10
